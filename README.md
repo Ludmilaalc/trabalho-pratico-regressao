@@ -1,6 +1,6 @@
 # 🏡 House Price Prediction - Regression
 
-This project was developed as a **practical activity** during my Machine Learning studies.  
+This project was developed as a **practical activity** during my Machine Learning course, with guidance from the professor.  
 The goal is to predict house prices in **King County (Seattle)** using Python and regression models.
 
 ---
@@ -17,27 +17,16 @@ The goal is to predict house prices in **King County (Seattle)** using Python an
 - pandas, numpy  
 - scikit-learn  
 - matplotlib, seaborn  
-- Jupyter Notebook  
+- Google Colab  
 
 ---
 
 ## 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/ludmilaalc/trabalho-pratico-regressao.git
-  
-2.Install dependencies
-pip install -r requirements.txt
+You can open and run this project directly in Google Colab:
 
-3.Open the notebook in Jupyter
-jupyter notebook Trabalhopraticoregressaomod3.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ludmilaalc/trabalho-pratico-regressao/blob/main/Trabalhopraticoregressaomod3.ipynb)
 
-✅ Results
-Regression model trained and evaluated
-Metrics: R², MAE, MSE
-Visual analysis of features vs price
-
-📌 Notes
+---
 
 ## 📌 Notes
 This project was developed as a **practical activity** during my Machine Learning course, with guidance from the professor.  
